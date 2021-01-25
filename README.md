@@ -1,2 +1,3 @@
 # Examination_Management_System
-Examination Management System developed using Python and SQL
+
+Examination Management System is a python terminal application used to create, manage, and conduct online examination.  The students can open the app and login with their credentials to write the exam in the given duration. The questions are created by the administrator and are given to the students. For this, the admin needs to login to the system with their username and password. This application administrator has the ability to create new exams. This administrator can add various types of questions to the exam, modify questions in the exam in a particular exam. The objective of the Examination Management System is to provide better information for the users of this system for better results for their maintenance in student examination schedule details and grading details.
